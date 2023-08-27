@@ -1,0 +1,41 @@
+.body{
+    margin: 0px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.header1{
+    /* background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page294/rent4u/assets/images/hero-img.jpg"); */
+    height: 688px;
+    width: 1070px;
+}
+.header1 img{
+    width: 1070px;
+}
+
+.header2{
+    background-color: #240a5e;
+    color: aliceblue;
+    width: 449.2px;
+    height: 668px;
+}
+.header2 h1{
+    padding-top: 140px;
+    padding-left: 60px;
+    font-family:  "Open Sans",sans-serif;
+    font-weight: 700;
+    font-size:3.5rem;
+}
+.header2 button{
+    color: aliceblue;
+    background-color:#f22324;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 15px 50px 15px 50px;
+    border: none;
+    /* border-radius: 1px solid #f22324; */
+    margin-left: 60px;
+    margin-top: 1.2rem;
+}

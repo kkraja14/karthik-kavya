@@ -1,0 +1,32 @@
+.cars-2{
+    width:260px;
+    
+    align-content: center; 
+    
+}
+/* .cars-2 button{
+    align-content: center;
+    align-items: center;
+    /* color: aqua; */
+    /* justify-content: center; */ 
+/* } */
+.car-3{
+    font-size: 26px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.btn{
+    padding: 13px 30px 13px 30px;
+    font-size: 17px;
+    border: none;
+    color: aliceblue;
+    background-color: red;
+    text-align: center;
+    /* align-items: center; */
+    /* align-content: center; */
+    justify-content: center;
+}
+.para{
+    text-align: center;
+}

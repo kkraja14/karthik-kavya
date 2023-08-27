@@ -1,0 +1,15 @@
+.container{
+    width: 300px;
+
+}
+.container h2{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.field{
+    margin:10px 10px 10px 0px;
+    font-size: 20px;
+}
+.paint{
+    color: red;
+}
